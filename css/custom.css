@@ -1,5 +1,6 @@
 body{
 	background-image: url("http://i.imgur.com/NfiYzZJ.jpg");
+	z-index: 1000;
 }
 
 .Flexible-container {
