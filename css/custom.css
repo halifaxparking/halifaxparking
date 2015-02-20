@@ -1,3 +1,6 @@
+body{
+	background-image: url("media/background.jpg");
+}
 .Flexible-container {
     position: relative;
     padding-bottom: 56.25%;
