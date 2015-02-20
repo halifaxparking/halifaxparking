@@ -1,6 +1,7 @@
 body{
 	background-image: url("media/background.jpg");
 	z-index: 1000;
+	background-repeat: no-repeat;
 }
 
 .Flexible-container {
